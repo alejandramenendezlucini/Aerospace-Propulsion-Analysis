@@ -13,8 +13,6 @@ Experimental testing and numerical modeling of the **AMT Olympus HP micro-turboj
 * **Component Efficiency Evaluation**: Calculating compressor ($\eta_c$), turbine ($\eta_t$), and thermal ($\eta_{th}$) efficiencies across steady-state operational points (including low-RPM compressor stall phenomena).
 * **PROOSIS Validation**: Modeling static ground-test conditions ($M_0 = 0$, ambient pressure/temperature at Madrid altitude) to validate experimental thrust against numerical predictions.
 
-📄 **[Read Turbojet Full Report (PDF)](./docs/Turbojet_Test_and_Analysis.pdf)**
-
 ---
 
 ## 2. High-Bypass Turbofan Design & Off-Design Performance
@@ -25,8 +23,6 @@ Thermodynamic and aerodynamic modeling of a **civil high-bypass turbofan engine*
 * **On-Design Sizing & Nozzle Velocity Matching**: Sizing nozzle exit areas ($A_9$, $A_{19}$) under maximum cruise thrust and evaluating velocity matching ($v_9 = v_{19}$) effects on propulsive efficiency.
 * **Parametric Sweep Studies**: Investigating performance trade-offs between fan pressure ratio ($\pi_f$), bypass ratio ($\text{BPR}$), specific thrust ($\text{sFn}$), and thrust specific fuel consumption ($\text{TSFC}$).
 * **Off-Design Operating Envelopes**: Simulating take-off performance, ambient temperature sensitivity ($\Delta T$), and high-altitude service ceiling penalties.
-
-📄 **[Read Turbofan Full Report (PDF)](./docs/Turbofan_Design_and_Off_Design_Analysis.pdf)**
 
 ---
 
